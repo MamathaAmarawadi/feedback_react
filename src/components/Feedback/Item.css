@@ -1,0 +1,15 @@
+img {
+  height: 160px;
+  width: 180px;
+}
+.btn {
+  background-color: white;
+  border-width: 0px;
+  margin: 10px;
+}
+.name {
+  text-align: center;
+}
+li {
+  text-align: center;
+}

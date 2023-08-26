@@ -1,0 +1,35 @@
+/* Write your CSS code here. */
+
+.card {
+  border-radius: 10px;
+  height: 450px;
+  padding: 20px;
+  width: 800px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container {
+  background-image: linear-gradient(to left, #ffc0bb, #ffeeee);
+  height: 100vh;
+  display: flex;
+
+  justify-content: center;
+  padding-top: 70px;
+}
+ul {
+  display: flex;
+  list-style: none;
+}
+.card1 {
+  border-radius: 10px;
+  height: 450px;
+  padding: 20px;
+  width: 800px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
